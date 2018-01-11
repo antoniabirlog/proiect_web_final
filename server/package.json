@@ -1,0 +1,18 @@
+{
+  "name": "proiect_contact_manager",
+  "version": "1.0.0",
+  "description": "web_tech project",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "sequelize": "^4.22.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "antonia1696",
+  "license": "ISC",
+  
+}
